@@ -1,5 +1,0 @@
-# Add the bot as a code owner for specific files or directories
-# Format: path/to/file @botname[bot]
-
-# Example for all files
-* @approvers-dummy-bot
