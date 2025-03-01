@@ -1,6 +1,7 @@
 approvers:
   teams:
     - B2B-Smart-Labs/feature-a
+    - B2B-Smart-Labs/feature-a-another-team
   optional:
     users:
       - xanderlan
